@@ -17,6 +17,13 @@
       overflow: hidden;
     }
 
+    header p {
+    margin-top: 0.5rem;
+    font-size: 1.1rem;
+    opacity: 0.9;
+    text-align: center;
+    }
+
         #videoFondo {
     position:absolute;
     right: 0;
@@ -120,7 +127,7 @@
     }
 
     p {
-      color: #555;
+      color: #ffffff;
       margin-bottom: 1rem;
     }
 
