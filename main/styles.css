@@ -8,10 +8,24 @@
     }
 
     header {
-      background: linear-gradient(135deg, #7E57C2, #5E35B1);
+      background: linear-gradient(135deg, #7b2cbf73 0%, #3a0ca3e8 100%);
       color: white;
       text-align: center;
       padding: 5rem 2rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      position: relative;
+      overflow: hidden;
+    }
+
+        #videoFondo {
+    position:absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
     }
 
     .butterfly-animated {
