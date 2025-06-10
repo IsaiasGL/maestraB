@@ -18,6 +18,7 @@
     }
 
     header p {
+    color: #464646;
     margin-top: 0.5rem;
     font-size: 1.1rem;
     opacity: 0.9;
@@ -127,7 +128,7 @@
     }
 
     p {
-      color: #ffffff;
+      color: #464646;
       margin-bottom: 1rem;
     }
 
